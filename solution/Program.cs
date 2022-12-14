@@ -11,6 +11,7 @@ for (int i = 0; i < symbols.Length; i++)
     }
 }
 Console.WriteLine($"[{String.Join(",", symbols)}]");
+//
 
 // ТАКЖЕ ЕСТЬ ВАРИАНТ С ПОМОЩЬЮ МЕТОДА
 
